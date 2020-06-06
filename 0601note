@@ -1,2 +1,30 @@
 1.缩进来区分代码块
-2.
+2.for2.py：里面介绍了range函数，循环list a间隔打印a中的元素
+3.for.py：for的基础用法
+4.snippet片段
+5.条件将的是if的基本语法
+6.while的递归循环
+7.seven：c1\c2的python文件演示模块导入
+8. .pyc文件隐藏起来 用户设置中
+"files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/__pycache__": true
+  },
+9. 模块的导入
+10. 如果代码一行内过长了，可以进行换行，加()或者\
+11. __init__.py文件的作用：python可以自动运行这个模块的代码
+应用场景：
+(1)sys/edatetim/io是python内置的标准库时：可以把import全部放入这个文件进行批量导入
+(2)__all__
+使用方法：__all__=['c7']，如果是在init中写了__all__，说明这个包只加载了c7模块
+12.包与模块的常见错误
+循环导入
+
+13. 函数：hanshu文件夹中的c1.py
+
+
+14
